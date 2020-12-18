@@ -1,6 +1,6 @@
 ## Programming_for_DA_Project (Programming for Data Analysis Project)
 
-This document consists of simulation for the passenger movement of Dublin Airport for the year 2018 (latest available public data), the data were simulated based on the information provided on the website of **[Dublin Airport](https://www.dublinairport.com/corporate/about-us)**.
+This document consists of simulation for the passenger profile of Dublin Airport for the year 2018 (latest available public data), the data were simulated based on the information provided on the website of **[Dublin Airport](https://www.dublinairport.com/corporate/about-us)**.
 
 ***
 
@@ -61,4 +61,4 @@ Download and Install [**Anaconda**](https://www.anaconda.com/) latest release fr
 
 ***
 ### License
-This repository was enrolled under GNU license. Please click [HERE](https://github.com/G00387867/Programming_for_DA_Project/blob/main/LICENSE) for further information.
+This repository was enrolled under GNU license. Please click [**HERE**](https://github.com/G00387867/Programming_for_DA_Project/blob/main/LICENSE) for further information.
